@@ -1,5 +1,5 @@
 variable "region" {
-  default     = "ca-central-1"
+  default     = "us-east-2"
   description = "AWS region"
 }
 
